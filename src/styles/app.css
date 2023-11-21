@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: 'Baloo 2';
+    overflow: hidden;
+}
+.search-box {
+    background-color: #F3F4F6;
+    border: 1px solid #F3F4F6;
+    right: 20px;
+}
+.menu-container {
+    background-color: #3730A2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list-icons {
+    width: 100%;
+}
+.content-container {
+    padding: 15px;
+}
+/* .container {
+    background: linear-gradient(to right, #4239C8, #322E83);
+    border-radius:"4px";
+    color: #EEF3FD;
+    height: "120px";
+    display: "flex";
+    flex-direction: "column";
+    text-align: "left";
+    line-height: 0;
+    padding: "0px 32px";
+    justify-content: "center";
+} */
+/*
+.container-type {
+    background: linear-gradient(to right, #4239C8, #322E83);
+    border-radius:"4px";
+    color: #EEF3FD;
+    height: "120px";
+    display: "flex";
+    flex-direction: "column";
+    text-align: "left";
+    line-height: 0;
+    /* padding: "0px 32px";s */
+    /* justify-content: "center"; */
+/* } */
